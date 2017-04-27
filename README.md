@@ -1,2 +1,2 @@
 # hello-world
-First repository created April 27, 2017
+  This will be used to test ideas and check to see if something works. If not then oh well right?
